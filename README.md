@@ -7,5 +7,5 @@
 * :clapper:  Movie Passionate
 * :video_game:  Videogames Lover
 * :dancer:  Spanish born
-* :artist:  French adopted
+* :baguette_bread:  French adopted
 * :guard:  English enthusiast

@@ -1,7 +1,7 @@
 
 ## Hola, I'm Ana! :vulcan_salute:
 
-* :rocket:  Currently exploring the world of programming at [@ 42Paris](https://42.fr/)
+* :rocket:  Currently exploring the world of programming at [42Paris](https://42.fr/)
 * :herb:  Landscape Designer
 * :triangular_ruler:  Architect and Urban Planner
 * :clapper:  Movie Passionate

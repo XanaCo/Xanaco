@@ -44,6 +44,6 @@ After completing the core training at [42Paris](https://42.fr/), I’ve develope
 </p>
 
 ###
-<p align="left">
+<p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanaco&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>

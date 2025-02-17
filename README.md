@@ -2,7 +2,7 @@
 
 ## Hola, I'm Ana! :vulcan_salute:
 
-I’m a former landscape architect turned interactive developer. 
+I’m a former landscape architect turned software developer. 
 
 After completing the core training at [42Paris](https://42.fr/), I’ve developed a solid foundation in full-stack development, working on a variety of projects that range from web applications to interactive experiences.
 
@@ -10,14 +10,14 @@ After completing the core training at [42Paris](https://42.fr/), I’ve develope
 	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/ancolmen?1337Badge=off&UM6P=off" alt="ancolmen's 42 stats" /></a>
 </p>
 
-* :rocket:  Currently developing Unity projects at **42**
+<!-- * :rocket:  Currently developing Unity projects at **42**
 * :herb:  Landscape Designer
 * :triangular_ruler:  Architect and Urban Planner
 * :clapper:  Movie Passionate
 * :video_game:  Videogames Lover
 * :dancer:  Spanish born
 * :baguette_bread:  French adopted
-* :guard:  English enthusiast
+* :guard:  English enthusiast -->
 
 ###
 <p align="center">

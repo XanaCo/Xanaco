@@ -44,6 +44,11 @@ After completing the core training at [42Paris](https://42.fr/), I've gained a s
 </p>
 
 ###
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanaco&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+
+<a href="https://github.com/xanaco/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xanaco&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/xanaco/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xanaco&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+</a>

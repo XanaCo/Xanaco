@@ -6,12 +6,6 @@ I’m a former landscape architect turned software developer.
 
 After completing the core training at [42Paris](https://42.fr/), I've gained a solid foundation in full-stack development, and I'm continuing to expand my skills, particularly in Unity and C#. My projects range from web applications to interactive experiences, and I’m passionate about merging my architectural background with my growing development skills to create innovative digital worlds.
 
-###
-<p align="center">
-	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/ancolmen?1337Badge=off&UM6P=off" alt="ancolmen's 42 stats" /></a>
-</p>
-
-###
 <!-- * :rocket:  Currently developing Unity projects at **42**
 * :herb:  Landscape Designer
 * :triangular_ruler:  Architect and Urban Planner

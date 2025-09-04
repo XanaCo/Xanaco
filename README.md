@@ -4,7 +4,7 @@
 
 I’m a former landscape architect turned software developer. 
 
-After completing the core training at [42Paris](https://42.fr/), I've gained a solid foundation in full-stack development, and I'm continuing to expand my skills, particularly in Unity and C#. My projects range from web applications to interactive experiences, and I’m passionate about merging my architectural background with my growing development skills to create innovative digital worlds.
+After completing the core training at [42Paris](https://42.fr/), I've gained a solid foundation in full-stack development, and I'm continuing to expand my skills, particularly in Unity/Unreal. My projects range from web applications, games to interactive experiences, and I’m passionate about merging my architectural background with my growing development skills to create innovative digital worlds.
 
 <!-- * :rocket:  Currently developing Unity projects at **42**
 * :herb:  Landscape Designer

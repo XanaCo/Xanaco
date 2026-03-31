@@ -33,7 +33,7 @@ After completing the core training at [42Paris](https://42.fr/), I've gained a s
 ### Graphic and Interactive
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,unity,autocad,ai,ps,blender,figma,notion&perline=50" />
+    <img src="https://skillicons.dev/icons?i=unreal,unity,autocad,ai,ps,blender,figma,notion,arduino&perline=50" />
     </a>
 </p>
 
